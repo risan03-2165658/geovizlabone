@@ -1,9 +1,9 @@
 # Risa Nabari
-<img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/e/e3/X39xc4.png/revision/latest?cb=20200331083018" alt="Portrait">
+![Portrait](https://static.wikia.nocookie.net/disney/images/6/65/Chihiro_Ogino_-_Spirited_Away.jpg/revision/latest?cb=20230807233615)
 
-risan03@example.com
+[Email](mail:risan03@uw.edu)
 
-http://www.risaexample.com
+[Personal Website](https://risan03-2165658.github.io/geovizlabone/resume)
 
 [LinkedIn](http://www.linkedin.com/in/risa03)
 
