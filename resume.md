@@ -1,5 +1,5 @@
 # Risa Nabari
-![Alt text](/blob/main/Screenshot%202024-01-19%20at%2021.21.01.png)
+![Alt text](Screenshot%202024-01-19%20at%2021.21.01.png)
 
 [Email](risan03@uw.edu)
 
