@@ -4,7 +4,7 @@ Resume
 
 [Email](mailto:risan03@example.com)
 [Personal Website](http://www.risaexample.com)
-[LinkedIn](http://www.linkedin.com/in/risa03)
+[LinkedIn](http://www.linkedin.com/in/risa03
 
 # Summary
 
