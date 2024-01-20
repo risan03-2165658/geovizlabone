@@ -8,7 +8,9 @@ Resume
 
 # Summary
 
-> Undergraduate student majoring in Geography and Data Science with a strong foundation in data analysis and a > results-driven mindset. Equipped to contribute data-driven insights and collaborate on real-world challenges.
+> 
+> Undergraduate student majoring in Geography and Data Science with a strong foundation in data analysis and a
+> results-driven mindset. Equipped to contribute data-driven insights and collaborate on real-world challenges.
 
 # Work Experience 
 
