@@ -1,4 +1,4 @@
-Resume.md
+resume
 # Risa Nabari
 <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/e/e3/X39xc4.png/revision/latest?cb=20200331083018" alt="Portrait">
 
