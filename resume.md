@@ -1,7 +1,7 @@
 # Risa Nabari
 ![Portrait](https://static.wikia.nocookie.net/disney/images/6/65/Chihiro_Ogino_-_Spirited_Away.jpg/revision/latest?cb=20230807233615)
 
-[Email](mail:risan03@uw.edu)
+[Email](risan03@uw.edu)
 
 [Personal Website](https://risan03-2165658.github.io/geovizlabone/resume)
 
