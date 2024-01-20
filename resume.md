@@ -2,10 +2,8 @@ Resume
 # Risa Nabari
 <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/e/e3/X39xc4.png/revision/latest?cb=20200331083018" alt="Portrait">
 
-risan03@example.com
-
-http://www.risaexample.com
-
+[Email](mailto:risan03@example.com)
+[Personal Website](http://www.risaexample.com)
 [LinkedIn](http://www.linkedin.com/in/risa03)
 
 # Summary
