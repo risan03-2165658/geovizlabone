@@ -54,7 +54,7 @@ http://www.risaexample.com
 
 * [Bachelor of Arts][Geography with Data Science] 
 
-** Fields of Study** 
+### Fields of Study
 
 Data Management, Data Analysis, Data Visualization, Spatial Analysis, Programming, Statistics, Environment, Health, Globalization, Urbanization, Gentrification, Migration, Sustainability
 
