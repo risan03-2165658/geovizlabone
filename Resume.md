@@ -52,7 +52,7 @@ http://www.risaexample.com
 
 ## University of Washington (Seattle, Washington)
 
-* [Bachelor of Arts][Geography with Data Science] 
+### Bachelor of Arts #[Geography with Data Science] 
 
 ### Fields of Study
 
